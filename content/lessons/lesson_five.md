@@ -1,9 +1,5 @@
 ---
 title: Lesson Five
-date: 2018-08-23T03:39:14.264Z
-description: >-
-  ration above adds a new setting, public_folder. While media_folder specifies
-  where 
 tags:
   - tag1
 ---
