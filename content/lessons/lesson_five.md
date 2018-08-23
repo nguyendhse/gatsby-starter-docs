@@ -1,9 +1,7 @@
 ---
 title: Lesson Five
 ---
-aaaaaaaaaaaaaaaaaaa
-
-
+**aaaaaaaaaaaaaaaaaaa**
 
 he configuration above adds a new setting, public_folder. While media_folder specifies where uploaded files are saved in the repo, public_folder indicates where they are found in the published site. Image src attributes use this path, which is relative to the file where it's called. For this reason, we usually start the path at the site root, using the opening /.
 
