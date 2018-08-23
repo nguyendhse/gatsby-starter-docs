@@ -1,6 +1,15 @@
 ---
-title: "Lesson One"
+title: Lesson One
+date: 2018-08-23T03:42:14.291Z
+description: Configuration
+tags:
+  - tag2
+  - tag3
 ---
+Configuration
+
+Configuration is different for every site, so we'll break it down into parts. Add all the code snippets in this section to your admin/config.yml file.
+
 
 
 Spicy jalapeno cupidatat chicken ut filet mignon sausage ut boudin nulla reprehenderit strip steak proident cillum incididunt short loin cow. Pig in pastrami, leberkas eiusmod enim bresaola do. Filet mignon officia quis kevin pork, swine strip steak excepteur hamburger chicken pork chop boudin shankle. Velit chicken pig in cupim kielbasa jerky. Bresaola excepteur veniam, andouille magna brisket aliquip nostrud jerky.
@@ -23,4 +32,4 @@ Jowl dolor duis, cupidatat pork tempor nostrud incididunt short loin laborum. Du
 Spare ribs aute fugiat, pariatur andouille labore nulla exercitation. Aliqua picanha sirloin consequat drumstick sint exercitation pork nisi et. Dolore swine fugiat pork salami proident. Bacon excepteur filet mignon labore pariatur in in nulla magna fugiat prosciutto. Laboris sint ground round, pancetta ipsum in pariatur voluptate fatback andouille velit shoulder flank quis sausage.
 
 Hamburger ham shank est, officia qui capicola proident. Ribeye dolore prosciutto sirloin alcatra. Rump short ribs quis ex fugiat proident incididunt irure t-bone meatball veniam sirloin meatloaf. Tongue anim sint pancetta bresaola sirloin.
-Does your lorem ipsum text long for something a little meatier? Give our generator a try… 
+Does your lorem ipsum text long for something a little meatier? Give our generator a try…
